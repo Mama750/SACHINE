@@ -1,0 +1,26 @@
+{
+ "name": "चन्द्रकला कृषि केंद्र - स्टॉक रजिस्टर",
+ "short_name": "चन्द्रकला",
+ "description": "Stock register for Chandrakala Krishi Kendra",
+ "lang": "hi",
+ "start_url": "./index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#F2F5EC",
+ "theme_color": "#1E5B3A",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
